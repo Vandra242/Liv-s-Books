@@ -19,7 +19,7 @@ h1{
 }
 .paragraph1{
   text-align: center;
-  color: darkred;
+  color: darkgreen;
 }
 p{
   text-align: justify;
@@ -30,7 +30,7 @@ body {
  background-size: cover;
 }
 h3{
-  color:navy;
+  color:gold;
 }
 .navbar{
   list-style: none;
@@ -60,7 +60,7 @@ h3{
 }
 #page-container {
   position: relative;
-  min-height: 75vh;
+  min-height: 100vh;
 }
 #content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
